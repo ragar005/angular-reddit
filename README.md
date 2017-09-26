@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Deployed with Heroku
 
-Please check the link for the application [Click here for the Application](https://reddit-angular.herokuapp.com/)
+Please check the link for the application [Click here for the Application](https://redditangular-ragar005.herokuapp.com/)
 
 ## Development server
 
